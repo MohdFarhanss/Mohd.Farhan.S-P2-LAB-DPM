@@ -5,7 +5,7 @@ const DimensionExample = () => {
   return (
     <View style={styles.container}>
       {/* Teks di tengah layar */}
-      <Text style={styles.text}>Teks di Tengah Layar</Text>
+      <Text style={styles.text}>Mohd. Farhan. S</Text>
 
       {/* Dua kotak di sisi kiri dan kanan */}
       <View style={styles.row}>
